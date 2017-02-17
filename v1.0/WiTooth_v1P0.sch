@@ -35,54 +35,13 @@ LIBS:cp2102
 LIBS:JTAG
 LIBS:crystal-new
 LIBS:usb_a_male_pcb
-LIBS:4n35_opto
-LIBS:24MHz
-LIBS:0850bm14e0016
-LIBS:2450BM14G0011
-LIBS:antenna_2.4GHz
-LIBS:cc1310_7x7
-LIBS:cc1310_7x7_new
-LIBS:cc2650
-LIBS:cc2650_7x7
-LIBS:connectors
-LIBS:crystal_24MHz
-LIBS:df08s1_bridge_rec-ic
-LIBS:edge_sma
-LIBS:esp-12e
-LIBS:esp-32_wroom32_Exact
-LIBS:henlv_5v_2a
-LIBS:henlv-ac220s3_3dcs-3w
-LIBS:HM-10
-LIBS:ic-cpu
-LIBS:ic-io
-LIBS:ic-misc
-LIBS:ic-power
-LIBS:inductor
-LIBS:inductor_L
-LIBS:lp5907_ldo_250ma
-LIBS:ltr-303als
-LIBS:Micro_USB_B
-LIBS:passive
-LIBS:PROBE
-LIBS:RFM_module
-LIBS:sfm-110-02-s-d-a-k-tr
-LIBS:si7006
-LIBS:switch_dpdt
-LIBS:switch_spdt
-LIBS:switches
-LIBS:tps782
-LIBS:tps63051
-LIBS:triac_board
-LIBS:vbus053az
-LIBS:xbee
-LIBS:WiTooth_v1P0-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "WiTooth"
-Date ""
+Date "2017-02-17"
 Rev "v1.0"
 Comp ""
 Comment1 ""
@@ -674,7 +633,7 @@ Text Notes 3450 750  0    60   ~ 0
 Decoupling Section
 Text Notes 5250 5375 0    39   ~ 0
 Should be made as break-away section
-Text Notes 1925 2500 0    79   ~ 0
+Text Notes 1875 2700 0    79   ~ 0
 Programming Section
 $Comp
 L CP2102 U2
