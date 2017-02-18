@@ -1,4 +1,4 @@
-update=02/17/17 21:35:11
+update=02/18/17 15:32:10
 version=1
 last_client=kicad
 [cvpcb]
@@ -44,16 +44,6 @@ LibName33=cp2102
 LibName34=JTAG
 LibName35=crystal-new
 LibName36=usb_a_male_pcb
-[schematic_editor]
-version=1
-PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/Pcb_Schematic_Worksheet.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/Pcb_Layout_Worksheet.kicad_wks
@@ -73,5 +63,15 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.15
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/Pcb_Schematic_Worksheet.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
