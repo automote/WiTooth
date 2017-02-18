@@ -1,38 +1,9 @@
-update=02/09/17 15:18:17
+update=02/18/17 16:22:47
 version=1
 last_client=kicad
-[pcbnew]
-version=1
-LastNetListRead=
-UseCmpFile=1
-PadDrill=0.600000000000
-PadDrillOvalY=0.600000000000
-PadSizeH=1.500000000000
-PadSizeV=1.500000000000
-PcbTextSizeV=1.500000000000
-PcbTextSizeH=1.500000000000
-PcbTextThickness=0.300000000000
-ModuleTextSizeV=1.000000000000
-ModuleTextSizeH=1.000000000000
-ModuleTextSizeThickness=0.150000000000
-SolderMaskClearance=0.000000000000
-SolderMaskMinWidth=0.000000000000
-DrawSegmentWidth=0.200000000000
-BoardOutlineThickness=0.100000000000
-ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=C:/Users/bomma/Documents/GitHub/My Design templates/Pcb_Schematic_Worksheet.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=../../kicad-library/library
@@ -73,5 +44,34 @@ LibName33=cp2102
 LibName34=JTAG
 LibName35=crystal-new
 LibName36=usb_a_male_pcb
+[pcbnew]
+version=1
+PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/Pcb_Layout_Worksheet.kicad_wks
+LastNetListRead=
+PadDrill=0.3
+PadDrillOvalY=0.3
+PadSizeH=0.5
+PadSizeV=0.5
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0.2
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.15
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=P:/PCB Design/kicad-library/template/thingTronics/Pcb_Schematic_Worksheet.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
