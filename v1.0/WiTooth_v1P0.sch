@@ -35,6 +35,7 @@ LIBS:cp2102
 LIBS:JTAG
 LIBS:crystal-new
 LIBS:usb_a_male_pcb
+LIBS:WiTooth_v1P0-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
