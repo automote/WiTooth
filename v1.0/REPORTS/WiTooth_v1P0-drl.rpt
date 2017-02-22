@@ -1,5 +1,5 @@
 Drill report for P:\PCB Design\WiTooth\v1.0\WiTooth_v1P0.kicad_pcb
-Created on 02/18/17 15:10:04
+Created on 02/22/17 16:36:43
 
 Copper Layer Stackup:
     =============================================================
@@ -12,11 +12,11 @@ Copper Layer Stackup:
 Drill file 'P:WiTooth_v1P0.drl' contains
     plated through holes:
     =============================================================
-    T1  0.30mm  0.012"  (41 holes)
-    T2  0.40mm  0.016"  (50 holes)
+    T1  0.30mm  0.012"  (9 holes)
+    T2  0.40mm  0.016"  (51 holes)
     T3  1.00mm  0.039"  (40 holes)
 
-    Total plated holes count 131
+    Total plated holes count 100
 
 
 Drill file 'P:WiTooth_v1P0-NPTH.drl' contains
