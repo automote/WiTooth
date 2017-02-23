@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.4-stable)
 
   (general
-    (links 0)
+    (links 139)
     (no_connects 0)
-    (area 76.22 85.225 187.65 123.000001)
+    (area 57.12 81.715 187.65 129.940001)
     (thickness 2)
     (drawings 99)
     (tracks 570)
@@ -65,7 +65,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFBF)
     (pcbplotparams
-      (layerselection 0x331fc_80000007)
+      (layerselection 0x00100_00000000)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -2023,7 +2023,7 @@
     )
   )
 
-  (module "Fab Details table:Fab Details table" (layer F.Cu) (tedit 58AD7077) (tstamp 58AD79C1)
+  (module "Fab Details table:Fab Details table" (layer F.Cu) (tedit 58AEDEFA) (tstamp 58AD79C1)
     (at 57.57 86.69)
     (descr "FAB Details Table")
     (fp_text reference REF** (at 7 -4) (layer Dwgs.User) hide
@@ -2129,7 +2129,7 @@
     (fp_text user "8 mils" (at 23 10) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user Yes (at 22 12) (layer Dwgs.User)
+    (fp_text user No (at 22 12) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user Yes (at 22 14) (layer Dwgs.User)
@@ -2162,7 +2162,7 @@
     (fp_text user No (at 22 32) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user "30 Micorns" (at 25 34) (layer Dwgs.User)
+    (fp_text user "1 Oz" (at 22.64 33.92) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user "HASL Finish" (at 25 36) (layer Dwgs.User)
