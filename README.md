@@ -25,6 +25,14 @@ The WiTooth is based on Espressif ESP32 WiFi-BT-BLE SoC (System on Chip), ESP32 
  * Extended breadboard compatible headers
  * UART, SPI, I2C
  * On-board RESET
+
+## Changelog
+ - v1.1
+	+ Grounding via added
+	+ Version bumped to 1.1
+ - v1.0
+	+ Updated 2N3904 symbol and footprint
+	+ removed JTAG headers
  
 ## Maintainers
 
